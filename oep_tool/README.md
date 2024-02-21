@@ -27,5 +27,5 @@ On every change, a zip file gets created with the updated `.cs` files, but with 
 Control-c on the terminal, or press escape while input is captured on the terminal
 
 # Why?
-The context where I uses C# in a so generic way, that it has no impact of changing versions.
+I have a subject on Uni where we use C# in a so generic way, that it has no impact of changing versions, but have to do it every once in a while.
 I hate to do it by hand, so I made this tool.
