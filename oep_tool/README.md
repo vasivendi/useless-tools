@@ -1,5 +1,5 @@
 # Description
-This is a tool for automating OEP homework
+This is a tool for automating OEP homework version override
 
 # Setup
 Compile with net7.0 or net8.0, run it directly or alias the executable in your shell
